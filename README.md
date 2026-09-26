@@ -1,5 +1,7 @@
 # Money Mate 💰
+## Preview
 
+![Money Mate Screenshot](Money-Mate.png.png)
 A responsive personal expense tracker built using HTML, CSS, and JavaScript.
 
 ## Features
